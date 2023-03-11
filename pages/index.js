@@ -19,7 +19,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Je m’appelle Popol et je suis alternant en BTS SIO à l'école supérieure du numérique des Landes(ESNL),  Option Solutions Logicielles et Application Métier.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
